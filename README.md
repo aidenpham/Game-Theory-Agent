@@ -5,4 +5,4 @@ In short the problem involves an assessment of when it is better to cooperate wi
 
 This assignment demonstrated the ability to use functional and object-oriented programming.
 
-Please read the MS Word file for the full description of this assignment.
+Please read the MS Word file for the full description of this assignment and the pdf file for my finalized agent (with explanation of my strategy).
